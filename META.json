@@ -53,6 +53,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/Code-Hex/p5-Acme-Pointer/issues"
+      },
+      "homepage" : "https://github.com/Code-Hex/p5-Acme-Pointer",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/Code-Hex/p5-Acme-Pointer.git",
+         "web" : "https://github.com/Code-Hex/p5-Acme-Pointer"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:CODEHEX",
    "x_serialization_backend" : "JSON::PP version 2.27300_01"
