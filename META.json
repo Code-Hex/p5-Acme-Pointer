@@ -42,13 +42,13 @@
       },
       "runtime" : {
          "requires" : {
-            "perl" : "5.008001"
+            "perl" : "0"
          }
       },
       "test" : {
          "requires" : {
             "Test::LeakTrace" : "0",
-            "Test::More" : "0.98"
+            "Test::More" : "0"
          }
       }
    },
