@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "We can access to data using address as the string",
    "author" : [
       "K <x00.x7f@gmail.com>"
    ],
@@ -47,6 +47,7 @@
       },
       "test" : {
          "requires" : {
+            "Test::LeakTrace" : "0",
             "Test::More" : "0.98"
          }
       }
